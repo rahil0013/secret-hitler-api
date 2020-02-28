@@ -1,0 +1,1 @@
+insert into roles (type) VALUES ('ROLE_ADMIN'),('ROLE_FASCIST'), ('ROLE_LIBERAL'), ('ROLE_HITLER');
